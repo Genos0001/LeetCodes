@@ -6,6 +6,7 @@ only for leetcode
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Genos0001/LeetCodes/tree/master/0179-largest-number) |
 | [1217-relative-sort-array](https://github.com/Genos0001/LeetCodes/tree/master/1217-relative-sort-array) |
 | [1582-design-browser-history](https://github.com/Genos0001/LeetCodes/tree/master/1582-design-browser-history) |
 ## Hash Table
@@ -15,6 +16,7 @@ only for leetcode
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Genos0001/LeetCodes/tree/master/0179-largest-number) |
 | [1217-relative-sort-array](https://github.com/Genos0001/LeetCodes/tree/master/1217-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -48,4 +50,12 @@ only for leetcode
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Genos0001/LeetCodes/tree/master/1582-design-browser-history) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Genos0001/LeetCodes/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Genos0001/LeetCodes/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
