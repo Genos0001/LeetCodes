@@ -69,4 +69,16 @@ only for leetcode
 | ------- |
 | [1310-watering-plants](https://github.com/Genos0001/LeetCodes/tree/master/1310-watering-plants) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Genos0001/LeetCodes/tree/master/2195-time-needed-to-buy-tickets) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Genos0001/LeetCodes/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Genos0001/LeetCodes/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Genos0001/LeetCodes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
